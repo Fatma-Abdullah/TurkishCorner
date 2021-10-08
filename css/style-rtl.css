@@ -10168,3 +10168,12 @@ p {
  .ftco-navbar-light .navbar-nav > .nav-item.cta >  .nav-link:hover {
   color: #fff !important;
 }
+
+@media (max-width: 500px) {
+  /* .featured {
+    margin-top: 394px;
+} */
+.js-fullheight {
+  max-height: 200px !important;
+}
+}
