@@ -10177,3 +10177,9 @@ p {
   max-height: 200px !important;
 }
 }
+.Yearly-timeline .timeline:nth-child(5n+5) .timeline-content {
+  background: #fff1c7;
+}
+.Yearly-timeline .timeline:nth-child(5n+5)::before, .Yearly-timeline .timeline:nth-child(5n+5)::after {
+  border-color: #fff1c7;
+}
