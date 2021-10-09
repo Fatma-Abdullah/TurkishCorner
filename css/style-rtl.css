@@ -10179,7 +10179,20 @@ p {
   width: 78%!important;
   height: 70px;
 }
+.userIcon{
+  display: none;
+  margin: 0 5px;
+}
+.topIcons{
+  direction: initial;
 
+}
+@media (max-width: 769px) {
+  .userIcon{
+    display: inline;
+  }
+  .registerLink{display: none;}
+}
 @media (max-width: 500px) {
   /* .featured {
     margin-top: 394px;
@@ -10204,5 +10217,16 @@ p {
 }
 button.btn.btn-primary {
   margin-top: 10px;
+}
+.featured{
+  display: none;
+}
+.cta{
+  display: none;
+}
+.topIcons{
+  display: flex;
+  direction: initial;
+
 }
 }
