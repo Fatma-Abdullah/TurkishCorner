@@ -10192,6 +10192,12 @@ p {
     display: inline;
   }
   .registerLink{display: none;}
+  i.fa.fa-user {
+    color: #efefef;
+    margin: 10px;
+}
+
+
 }
 @media (max-width: 500px) {
   /* .featured {
