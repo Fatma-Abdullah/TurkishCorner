@@ -10189,7 +10189,7 @@ p {
 }
 .owl-carousel .item img {
     width: 66%!important;
-    height: auto;
+    height: 100px;
     margin: auto;
 }
 .accordion {
