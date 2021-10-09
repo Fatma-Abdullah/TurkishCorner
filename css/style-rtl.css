@@ -10202,4 +10202,7 @@ p {
   border-radius: 4px;
   padding: 0;
 }
+button.btn.btn-primary {
+  margin-top: 10px;
+}
 }
