@@ -310,6 +310,7 @@
 
 	  })
 	  $('.dropdown').on('click', function(e){
+		  debugger
 		$('.navbar-collapse').addClass('collapse show')
 		e.stopPropagation();
 

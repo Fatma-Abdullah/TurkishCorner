@@ -10196,8 +10196,12 @@ p {
     color: #efefef;
     margin: 10px;
 }
-
-
+.ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
+  background: #fff !important;
+}
+.dropdown-item {
+  color: #212529 !important;
+}
 }
 @media (max-width: 500px) {
   /* .featured {
@@ -10235,4 +10239,11 @@ button.btn.btn-primary {
   direction: initial;
 
 }
+}
+.payments img{
+  width: 51px;
+  height: 26px;
+  }
+  .ftco-footer .ftco-footer-widget h2 {
+    margin-bottom: 11px;
 }
