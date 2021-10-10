@@ -10231,9 +10231,7 @@ button.btn.btn-primary {
 .featured{
   display: none;
 }
-.cta{
-  display: none;
-}
+
 .topIcons{
   display: flex;
   direction: initial;
