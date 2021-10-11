@@ -9826,7 +9826,7 @@ color: #ffffff !important;
 .ftco-navbar-light.scrolled {
 background: #000 !important;
 }.ftco-navbar-light.scrolled .navbar-nav > .nav-item .dropdown-menu {
-background: rgb(0 0 0);
+background: #000;
 box-shadow: rgb(0 0 0 / 41%) 0px 10px 34px -20px;
 }.ftco-navbar-light.scrolled .navbar-nav > .nav-item .dropdown-menu  .dropdown-item {
 color: #fff;
